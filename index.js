@@ -1,6 +1,6 @@
 'use strict'
 
-var map = require('map-obj')
+var map = require('./map-obj')
 var snakeCase = require('to-snake-case')
 
 module.exports = function (obj) {
